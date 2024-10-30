@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeAndreCochrane
-- 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning about Java
+- 👀 I’m interested in learning how to use Generative AI develop my Azure platform competencies. 
+- 🌱 I’m currently learning about GitHub and GitHub Copilot
 - 💞️ I’m looking to collaborate on entry level projects
 - 📫 How to reach me @DeAndreCochrane on facebook instagram and linkedin
 
